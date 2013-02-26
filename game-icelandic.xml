@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="game.xsl"?>
+<questions>
+  <appsettings>
+		<name>Íslenskunám</name>
+	</appsettings>
+	<question>
+		<text>How are you?</text>		
+		<answer>Hvað segiru gott? Hvað segiru? Hvað segist?</answer>	
+	</question>
+	<question>
+		<text>Hi, my name is *NAME*. I come from *COUNTRY*.</text>		
+		<answer>Hæ ég heiti *NAME*. Ég er frá *NAME*</answer>		
+	</question>	
+	<question>
+		<text>What is the time? I have to go!</text>		
+		<answer>Hvað er klukkan? Ég verð að fara!</answer>		
+	</question>
+	<question>
+		<text>Icelandic nature is very beautiful! </text>		
+		<answer>Íslenska náttúran er mjög falleg!</answer>		
+	</question>	
+</questions>
